@@ -1,2 +1,2 @@
 # Catch-The-Eggs
-Javascript
+Move the Basket using Arrow Keys to catch the Eggs
